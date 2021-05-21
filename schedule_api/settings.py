@@ -23,6 +23,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "rest_framework",
     "schedule.apps.ScheduleConfig",
+    "drf_yasg",
 ]
 
 MIDDLEWARE = [
